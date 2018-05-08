@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using OpenQA.Selenium.Chrome;
 using ZeusAutomationSuite.Extensions;
 
-namespace SampleUnitTest
+namespace SampleUnitTest 
 {
     [TestClass]
     public class SampleUnitTest
@@ -20,7 +20,7 @@ namespace SampleUnitTest
         TestCaseHelper testCase = null;
         TestExecutions execution = null;
         string downloadDirectory = "";
-        public SampleUnitTest()
+        public SampleUnitTest() 
         {
         }
 
