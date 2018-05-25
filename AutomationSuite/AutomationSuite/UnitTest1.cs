@@ -1,4 +1,4 @@
-﻿using System;
+  ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ZeusAutomationSuite.Helper;
 using ZeusAutomationSuite.DataProviders;
@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using OpenQA.Selenium.Chrome;
 using ZeusAutomationSuite.Extensions;
 
-namespace SampleUnitTest 
+namespace SampleUnitTest  
 {
     [TestClass]
     public class SampleUnitTest
